@@ -42,36 +42,13 @@ const config = {
     "subheadline": "Purchased in a <strong>High-Demand Area</strong> With Strong Terms—Now <a href=\"#\">Generating Top-Dollar Rent</a> in a Tight Market"
   },
   "mainbox": {
-    "summary": {
-      "title": "How We Helped an Investor Win a 10-Offer Bidding War and Secure a Cash-Flowing Duplex in Vaughan",
-      "subTitle": "Summary",
-      "heroImage": {
-        "src": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?fit=crop&w=800&q=80"
-      },
-      "paragraphs": [
-        "In one of Vaughan’s most competitive pockets, a <strong>savvy investor client was looking for a cash-flowing, turn-key property to build long-term generational wealth</strong>. The challenge: high demand, limited inventory, and bidding wars on nearly every listing worth seeing.",
-        "After viewing 8 homes, we found a <strong>rare 2-unit property in Woodbridge</strong> underlisted at $999k to spark competition. The listing drew 10 offers—but through strategic negotiation, a larger deposit, firm terms, and a quick close... we won the deal at $1.26M without needing to be the highest bid. The property has since been <strong>rented at top market value</strong>, exceeding the client’s expectations and <strong>setting the foundation for strong equity gains</strong> in the years to come."
-      ]
-    },
-    "title": {},
-    "subTitle": {},
-    "heroImage": {
-      "src": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?fit=crop&w=800&q=80"
-    },
-    "src": {},
-    "paragraphs": {},
-    "sidebar": {
-      "title": "About {{companyName}}",
-      "image": {
-        "src": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?fit=crop&w=200&q=80"
-      },
-      "paragraphs": [
-        "At {{companyName}} we are built on integrity, insight, and innovation.<br><br>We combine decades of real estate expertise with cutting-edge technology to deliver unmatched support, transparency, and results for our clients.<br><br>With over 40 years of hands-on real estate experience and extensive corporate backgrounds, our managing partners provide a balanced and strategic approach to Residential, Commercial, and Investment properties.<br><br>We prioritize clear communication and use the latest market insights to guide every client toward success—whether buying, selling, or investing.<br><strong>At iStreet Realty Inc., we're more than real estate experts—we're your trusted partner in building your future.</strong>"
-      ]
-    },
-    "image": {
-      "src": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?fit=crop&w=200&q=80"
-    }
+    "summary": [
+      "In one of Vaughan’s most competitive pockets, a <strong>savvy investor client was looking for a cash-flowing, turn-key property to build long-term generational wealth</strong>. The challenge: high demand, limited inventory, and bidding wars on nearly every listing worth seeing.",
+      "After viewing 8 homes, we found a <strong>rare 2-unit property in Woodbridge</strong> underlisted at $999k to spark competition. The listing drew 10 offers—but through strategic negotiation, a larger deposit, firm terms, and a quick close... we won the deal at $1.26M without needing to be the highest bid. The property has since been <strong>rented at top market value</strong>, exceeding the client’s expectations and <strong>setting the foundation for strong equity gains</strong> in the years to come."
+    ],
+    "sidebar": [
+      "At {{companyName}} we are built on integrity, insight, and innovation.<br><br>We combine decades of real estate expertise with cutting-edge technology to deliver unmatched support, transparency, and results for our clients.<br><br>With over 40 years of hands-on real estate experience and extensive corporate backgrounds, our managing partners provide a balanced and strategic approach to Residential, Commercial, and Investment properties.<br><br>We prioritize clear communication and use the latest market insights to guide every client toward success—whether buying, selling, or investing.<br><strong>At iStreet Realty Inc., we're more than real estate experts—we're your trusted partner in building your future.</strong>"
+    ]
   },
   "sections": [
     {
