@@ -7,7 +7,7 @@ const config = {
     "accentColor": "#d9c6a2",
     "agents": [
       {
-        "name": "Rick Roccasalva",
+        "name": "Arslan",
         "imageSrc": "https://images.unsplash.com/photo-1557862921-37829c790f19?fit=crop&w=100&q=80",
         "contactDetails": [
           {
@@ -135,7 +135,7 @@ const config = {
       "href": "#"
     }
   },
-  "githubRepo": "arslvn93/casestudy"
+  "githubRepo": "Case-Study-416"
 };
 
 if (typeof module !== 'undefined' && module.exports) {
