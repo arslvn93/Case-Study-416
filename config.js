@@ -146,8 +146,3 @@ const config = {
     }
   }
 };
-if (typeof module !== 'undefined' && module.exports) {
-  module.exports = config;
-} else if (typeof window !== 'undefined') {
-  window.config = config;
-}
