@@ -1,6 +1,6 @@
 const config = {
   "globals": {
-    "companyName": "iStreet Realty Group",
+    "companyName": "Arslan",
     "mainCTAButtonText": "Book A Discovery Call",
     "mainCTAButtonURL": "#contact",
     "primaryColor": "#e3c379",
