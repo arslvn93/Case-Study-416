@@ -7,7 +7,7 @@ const config = {
     "companyName": "iStreet Realty Group",
     "agents": [
       {
-        "name": "Rick Roccasalva",
+        "name": "Arslan Ahmed",
         "imageSrc": "https://images.unsplash.com/photo-1557862921-37829c790f19?fit=crop&w=100&q=80",
         "contactDetails": [
           {
